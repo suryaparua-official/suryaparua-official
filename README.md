@@ -155,6 +155,10 @@ My work focuses on building resilient architectures, automating workflows, and c
   <a href="mailto:surya.exce@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
+
+  <a href="https://github.com/suryaparua-official">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
