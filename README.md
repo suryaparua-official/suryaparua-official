@@ -7,7 +7,7 @@
 <!-- 🔥 Profile Views -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryaparua-official&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=USER_NAME&color=blue" />
 </p>
 
 ---
