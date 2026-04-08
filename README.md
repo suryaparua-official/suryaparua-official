@@ -107,18 +107,15 @@ My work focuses on building resilient architectures, automating workflows, and c
 ![Datadog](https://img.shields.io/badge/Datadog-purple?style=for-the-badge&logo=datadog)
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suryaparua-official&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaparua-official&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaparua-official&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -165,7 +162,7 @@ My work focuses on building resilient architectures, automating workflows, and c
 
 # 🐍 Contribution Snake  
 
-![snake gif](https://github.com/suryaparua-official/suryaparua-official/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/suryaparua-official/suryaparua-official/raw/output/github-contribution-grid-snake.svg)
 ---
 
 # ⚡ Beyond Code  
