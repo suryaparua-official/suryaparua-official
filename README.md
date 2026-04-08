@@ -110,8 +110,8 @@ My work focuses on building resilient architectures, automating workflows, and c
 # 📊 GitHub Stats  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suryaparua-official&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaparua-official&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suryaparua-official&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://streak-stats.demolab.com?user=suryaparua-official&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -162,7 +162,7 @@ My work focuses on building resilient architectures, automating workflows, and c
 
 # 🐍 Contribution Snake  
 
-![snake gif](https://github.com/suryaparua-official/suryaparua-official/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/suryaparua-official/suryaparua-official/output/github-contribution-grid-snake.svg)
 ---
 
 # ⚡ Beyond Code  
