@@ -1,7 +1,7 @@
 <!-- 🔥 Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Surya+Parua;Software+Engineer+%7C+Site+Reliability+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=34&center=true&vCenter=true&width=900&lines=Hi+I'm+Surya+Parua;Software+Engineer+%7C+Site+Reliability+Engineer&duration=4000&pause=1000" />
 </p>
 
 <!-- 🔥 Profile Views -->
