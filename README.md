@@ -123,9 +123,9 @@ My work focuses on building resilient architectures, automating workflows, and c
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 Contribution Graph  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaparua-official&theme=tokyo-night" />
 
 ---
 
@@ -163,10 +163,9 @@ My work focuses on building resilient architectures, automating workflows, and c
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake  
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/suryaparua-official/suryaparua-official/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # ⚡ Beyond Code  
