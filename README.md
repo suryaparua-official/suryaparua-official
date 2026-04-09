@@ -16,12 +16,10 @@
 
 🚀 Software Engineer | 🔧 Site Reliability Engineer (SRE)  
 
-I’m a hands-on engineer with experience across Backend Development, Cloud Native technologies, DevSecOps, and Site Reliability Engineering. I enjoy designing scalable systems, improving system reliability, and working with modern infrastructure on the cloud.  
+Hey there! I'm Surya. I have hands-on experience in different aspects of Backend Engineering, DevSecOps, Cloud Native technology and Site Reliability Engineering. I like to build scalable architecture on the Cloud and contribute to Open Source projects. Hugely interested in Distributed Systems, Microservices & Service Mesh.
 
-My work focuses on building resilient architectures, automating workflows, and contributing to open source projects. I have a strong interest in Distributed Systems, Microservices, and Service Mesh.  
-
-🎓 BTech in Computer Science and Engineering  
-📍 West Bengal, India  
+🎓 BTech in Computer Science and Engineering
+📍 Purba Medinipur, West Bengal, India
 
 ---
 
@@ -33,7 +31,6 @@ My work focuses on building resilient architectures, automating workflows, and c
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 ![Lua](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua)
@@ -45,15 +42,21 @@ My work focuses on building resilient architectures, automating workflows, and c
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![React Native](https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react)
 
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+
 ---
 
 ## ⚙️ Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![OAuth](https://img.shields.io/badge/OAuth-blue?style=for-the-badge&logo=oauth)
+
 ---
 
 ## 🗄️ Databases & Messaging  
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
@@ -63,11 +66,18 @@ My work focuses on building resilient architectures, automating workflows, and c
 
 ---
 
-## 🐧 Systems & Fundamentals  
+## 🐧 Systems & Fundamentals & Tools
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Shell Script](https://img.shields.io/badge/Shell_Scripting-grey?style=for-the-badge&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![NGINX](https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=nginx)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
-💡 OS | Networking | Distributed Systems  
+---
+
+### 🧠 Core Fundamentals  
+💡 Operating Systems(OS) | Computer Networks | Object Oriented Programming(OOPs) | Database Management Systems(DBMS) | System Design(LLD+HLD) | Distributed Systems  
 
 ---
 
@@ -76,6 +86,7 @@ My work focuses on building resilient architectures, automating workflows, and c
 ![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-blue?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 ![Istio](https://img.shields.io/badge/Istio-blue?style=for-the-badge&logo=istio)
 
@@ -105,6 +116,7 @@ My work focuses on building resilient architectures, automating workflows, and c
 ![Jaeger](https://img.shields.io/badge/Jaeger-purple?style=for-the-badge&logo=jaeger)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-blue?style=for-the-badge&logo=opentelemetry)
 ![Datadog](https://img.shields.io/badge/Datadog-purple?style=for-the-badge&logo=datadog)
+
 ---
 
 # 📊 GitHub Stats  
