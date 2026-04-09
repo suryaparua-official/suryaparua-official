@@ -70,6 +70,7 @@ Hey there! I'm Surya. I have hands-on experience in different aspects of Backend
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Shell Script](https://img.shields.io/badge/Shell_Scripting-grey?style=for-the-badge&logo=gnu-bash)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![NGINX](https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=nginx)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
@@ -140,17 +141,25 @@ Hey there! I'm Surya. I have hands-on experience in different aspects of Backend
 
 # 🚀 Featured Projects
 
-🔹 Project 1 – Distributed Microservice Chat Application (Unicast, Multicast and Broadcast Support)
-🔹 Project 2 – Multi Vendor Microservice Based Food Delivery Platform
-🔹 
+### 🔹 Distributed Microservice Chat Application  
+- Architected a distributed microservice-based chat system supporting Unicast, Multicast, and Broadcast communication  
+- Implemented event-driven messaging using RabbitMQ deployed on EC2 for asynchronous communication  
+- Containerized services using Docker and pushed images to AWS ECR  
+- Designed and deployed Kubernetes infrastructure on AWS EKS for scalable and resilient workloads  
+- Built CI/CD pipeline using Jenkins for build & test automation and ArgoCD for GitOps-based continuous deployment  
+- Ensured secure and automated deployments following DevSecOps practices across the pipeline
 
 ---
 
-# 🧠 Current Focus
-
-* 🔥 System Design (HLD + LLD)
-* ☁️ Advanced Cloud Architecture
-* 🚀 Scaling Distributed Systems
+### 🔹 Multi Vendor Microservice Food Delivery Platform  
+- Developed a microservice-based food delivery system supporting multiple vendors and users
+- Implemented secure authentication and authorization using JWT & OAuth  
+- Developed RESTful APIs enabling seamless interaction between services and frontend clients  
+- Containerized services using Docker and pushed images to Docker Hub as container registry  
+- Deployed and managed Kubernetes cluster on AWS EC2 for scalable and resilient application deployment  
+- Built CI/CD pipeline using GitHub Actions for automated build, test, and deployment workflows  
+- Integrated caching using Redis to improve performance and reduce latency  
+- Ensured reliable service communication and fault tolerance across distributed microservices  
 
 ---
 
@@ -177,12 +186,3 @@ Hey there! I'm Surya. I have hands-on experience in different aspects of Backend
 ![snake gif](https://raw.githubusercontent.com/suryaparua-official/suryaparua-official/output/github-contribution-grid-snake.svg)
 ---
 
-# ⚡ Beyond Code  
-
-🎧 I enjoy listening to music while coding — it keeps me in the zone  
-☕ Coffee + Code = Perfect combination  
-🌧️ Love late-night drives in the rain  
-🏊 Enjoy swimming and staying active  
-✈️ Passionate about traveling and exploring new places  
-
-💡 I believe life is about building systems by day and enjoying moments by night  
