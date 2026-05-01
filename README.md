@@ -139,30 +139,6 @@ Hey there! I'm Surya. I have hands-on experience in different aspects of Backend
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔹 Distributed Microservice Chat Application  
-- Architected a distributed microservice-based chat system supporting Unicast, Multicast, and Broadcast communication  
-- Implemented event-driven messaging using RabbitMQ deployed on EC2 for asynchronous communication  
-- Containerized services using Docker and pushed images to AWS ECR  
-- Designed and deployed Kubernetes infrastructure on AWS EKS for scalable and resilient workloads  
-- Built CI/CD pipeline using Jenkins for build & test automation and ArgoCD for GitOps-based continuous deployment  
-- Ensured secure and automated deployments following DevSecOps practices across the pipeline
-
----
-
-### 🔹 Multi Vendor Microservice Food Delivery Platform  
-- Developed a microservice-based food delivery system supporting multiple vendors and users
-- Implemented secure authentication and authorization using JWT & OAuth  
-- Developed RESTful APIs enabling seamless interaction between services and frontend clients  
-- Containerized services using Docker and pushed images to Docker Hub as container registry  
-- Deployed and managed Kubernetes cluster on AWS EC2 for scalable and resilient application deployment  
-- Built CI/CD pipeline using GitHub Actions for automated build, test, and deployment workflows  
-- Integrated caching using Redis to improve performance and reduce latency  
-- Ensured reliable service communication and fault tolerance across distributed microservices  
-
----
-
 # 🤝 Connect With Me  
 
 <p align="center">
